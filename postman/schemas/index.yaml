@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   title: Google Maps Platform
-  description: API Specification for Google Maps Platform Replaced
+  description: API Specification for Google Maps Platform Replaced CHANGEBFJSDBIU DSJNFIOSDNO
   version: 1.17.17
 servers:
   - url: 'https://www.googleapis.com'
